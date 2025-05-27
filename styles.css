@@ -1,0 +1,9 @@
+body {
+    background-color: #fbeee6; /* Soft pastel background */
+}
+
+header img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
